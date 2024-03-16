@@ -8,7 +8,8 @@ video {
 
 .article-container {
   /* background: url('/images/Image2.jpeg') center center/cover no-repeat; */
-  background-color: #394b66;
+  
+  background-color: #d1981f;
   height: 100vh;
   width: 100%;
   display: flex;

@@ -92,6 +92,7 @@ For anyone working in Fintech, high uncertainty, stressful workplaces, long work
 I am confident that the Fintech industry can positively impact lives and develop a reputation as an ethical industry.  To create long-term sustainable value, there is no trade-off between acting ethically and successfully scaling Fintech start-ups. Let’s start by making values and ethics a priority and debate how Wirecard-like scandals can be prevented from happening.
 </p>
 <br />
+<br />
 <p>
 [1] McCrum, D and Storbeck, O (2020), ‘Wirecard says €1.9bn of cash is missing’, Financial Times, 18th June 2020, Available at: https://www.ft.com/content/1e753e2b-f576-4f32-aa19-d240be26e773, (Accessed: August 2020)
 </p>

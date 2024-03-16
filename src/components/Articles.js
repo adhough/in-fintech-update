@@ -4,10 +4,10 @@ import '../App.css';
 import { Button } from './ContactButton';
 import './Articles.css';
 import CardItem from './CardItem';
-import Presentation from './images/Presentation_2.jpg'
 import London from './images/London.jpg'
 import FXMarket from './images/FXmarket.jpeg'
 import Ethics from './images/Ethics.jpeg'
+import WindTurbines from './images/WindTurbines_Boat.jpg'
 
 function ArticleSection() {
   return (
@@ -18,10 +18,10 @@ function ArticleSection() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              text='Career Change : From Investment Banking to Fintech'
-              src={Presentation}
-              label='Fintech'
-              path='/fintech'
+              text='Renewable energy and the challenge of intermittency'
+              src={WindTurbines}
+              label='Renewables'
+              path='/renewable'
             />
             <CardItem
               text='What is Open Banking?'

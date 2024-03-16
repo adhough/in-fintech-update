@@ -8,6 +8,7 @@ import Agile from './images/Agile.jpeg'
 import FXModel from './images/FXModel.jpeg'
 import Libor from './images/Libor.jpeg'
 import SecModel from './images/SecModel.jpeg'
+import LCOE_Image from './images/LCOE_Image.jpg'
 
 function ProjectSection() {
   return (
@@ -17,16 +18,16 @@ function ProjectSection() {
   <div className='cards__wrapper'>
     <ul className='cards__items'>
       <CardItem
+        text='Levelised Cost of Energy Valuation Model'
+        src={LCOE_Image}
+        label='LCOE_Image'
+        path='/LCOE'
+      />
+      <CardItem
         text='Agile Project Tracker'
         src={Agile}
         label='Agile'
         path='/agile'
-      />
-      <CardItem
-        text='Average Libor Estimator'
-        src={Libor}
-        label='Libor'
-        path='/avglibor'
       />
       </ul>
       <ul className='cards__items'>

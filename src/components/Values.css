@@ -9,7 +9,7 @@ video {
 .values-container {
   /* background: url('/images/Image14.jpeg') center center/cover no-repeat; */
   background-color: #30818e;
-  height: 260vh;
+  height: 200vh;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -107,7 +107,7 @@ video {
 
   }
   .values-container {
-    height: 200vh;
+    height: 300vh;
   }
   .values-text-container {
     height: 80%;
