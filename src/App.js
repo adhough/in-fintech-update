@@ -17,6 +17,7 @@ import FXRisk from './components/FXRisk';
 import Ethics from './components/Ethics';
 import SecModel from './components/SecModel';
 import Renewable from './components/Renewable';
+import LCOE from './components/LCOE';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 
@@ -41,6 +42,7 @@ function App() {
           <Route path='/ethics' component={Ethics} />
           <Route path='/secmodel' component={SecModel} />
           <Route path='/renewable' component={Renewable} />
+          <Route path='/LCOE' component={LCOE} />
         </Switch>
       </Router>
     </>
