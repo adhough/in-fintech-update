@@ -9,7 +9,7 @@ video {
 .renewable-container {
   /* background: url('/images/Image10.jpeg') center center/cover no-repeat; */
   background-color: #394b66;
-  height: 350vh;
+  height: 375vh;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -27,7 +27,7 @@ video {
   margin-top: 0px;
 }
 .renewable-container > img{
-  height: 35%;
+  height: 20%;
   width: 100%;
   border: 2px solid;
   border-color: #fff;
