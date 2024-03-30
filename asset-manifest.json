@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.252e9f16.chunk.css",
+    "main.js": "/static/js/main.93ce8dee.chunk.js",
+    "main.js.map": "/static/js/main.93ce8dee.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b2dad46c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b2dad46c.js.map",
+    "static/js/2.92fd8c28.chunk.js": "/static/js/2.92fd8c28.chunk.js",
+    "static/js/2.92fd8c28.chunk.js.map": "/static/js/2.92fd8c28.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.252e9f16.chunk.css.map": "/static/css/main.252e9f16.chunk.css.map",
+    "static/js/2.92fd8c28.chunk.js.LICENSE.txt": "/static/js/2.92fd8c28.chunk.js.LICENSE.txt",
+    "static/media/Adrian_2.1926e8bb.jpeg": "/static/media/Adrian_2.1926e8bb.jpeg",
+    "static/media/Agile.7107127b.jpeg": "/static/media/Agile.7107127b.jpeg",
+    "static/media/Ethics.09f16d78.jpeg": "/static/media/Ethics.09f16d78.jpeg",
+    "static/media/Ethics_copy.09f16d78.jpeg": "/static/media/Ethics_copy.09f16d78.jpeg",
+    "static/media/FXModel.ab4830fb.jpeg": "/static/media/FXModel.ab4830fb.jpeg",
+    "static/media/FXmarket.91220d1a.jpeg": "/static/media/FXmarket.91220d1a.jpeg",
+    "static/media/EntrySection.css": "/static/media/Image1.a7e0869f.jpeg",
+    "static/media/Image16.0a129a1e.jpeg": "/static/media/Image16.0a129a1e.jpeg",
+    "static/media/Image2.7b2237d4.jpeg": "/static/media/Image2.7b2237d4.jpeg",
+    "static/media/LCOE_Image.d2034263.jpg": "/static/media/LCOE_Image.d2034263.jpg",
+    "static/media/Libor.d87a758e.jpeg": "/static/media/Libor.d87a758e.jpeg",
+    "static/media/London.199ee285.jpg": "/static/media/London.199ee285.jpg",
+    "static/media/London_2.4a4837b6.jpg": "/static/media/London_2.4a4837b6.jpg",
+    "static/media/Presentation_2.60bc83a5.jpg": "/static/media/Presentation_2.60bc83a5.jpg",
+    "static/media/SecModel.2ac93263.jpeg": "/static/media/SecModel.2ac93263.jpeg",
+    "static/media/WindTurbines_Boat.93a6cd99.jpg": "/static/media/WindTurbines_Boat.93a6cd99.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2dad46c.js",
+    "static/js/2.92fd8c28.chunk.js",
+    "static/css/main.252e9f16.chunk.css",
+    "static/js/main.93ce8dee.chunk.js"
+  ]
+}
