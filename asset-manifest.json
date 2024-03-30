@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.252e9f16.chunk.css",
-    "main.js": "/static/js/main.93ce8dee.chunk.js",
-    "main.js.map": "/static/js/main.93ce8dee.chunk.js.map",
+    "main.css": "/static/css/main.7237fd6c.chunk.css",
+    "main.js": "/static/js/main.d8e07702.chunk.js",
+    "main.js.map": "/static/js/main.d8e07702.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b2dad46c.js",
     "runtime-main.js.map": "/static/js/runtime-main.b2dad46c.js.map",
     "static/js/2.92fd8c28.chunk.js": "/static/js/2.92fd8c28.chunk.js",
     "static/js/2.92fd8c28.chunk.js.map": "/static/js/2.92fd8c28.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.252e9f16.chunk.css.map": "/static/css/main.252e9f16.chunk.css.map",
+    "static/css/main.7237fd6c.chunk.css.map": "/static/css/main.7237fd6c.chunk.css.map",
     "static/js/2.92fd8c28.chunk.js.LICENSE.txt": "/static/js/2.92fd8c28.chunk.js.LICENSE.txt",
     "static/media/Adrian_2.1926e8bb.jpeg": "/static/media/Adrian_2.1926e8bb.jpeg",
     "static/media/Agile.7107127b.jpeg": "/static/media/Agile.7107127b.jpeg",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.b2dad46c.js",
     "static/js/2.92fd8c28.chunk.js",
-    "static/css/main.252e9f16.chunk.css",
-    "static/js/main.93ce8dee.chunk.js"
+    "static/css/main.7237fd6c.chunk.css",
+    "static/js/main.d8e07702.chunk.js"
   ]
 }
